@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 content in test1
 content in master
-=======
-content in test1
-content in master
->>>>>>> test1
